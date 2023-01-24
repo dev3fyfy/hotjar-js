@@ -15,6 +15,7 @@ yarn add @hotjar/browser
 import Hotjar from '@hotjar/browser';
 ```
 
+
 ## Initialize Hotjar
 
 In order for Hotjar to run, it needs to be initialized with your site ID.
