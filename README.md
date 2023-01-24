@@ -10,6 +10,7 @@ Add this package as a dependency in your project, then import the library in you
 yarn add @hotjar/browser
 ```
 
+
 ```javascript
 import Hotjar from '@hotjar/browser';
 ```
